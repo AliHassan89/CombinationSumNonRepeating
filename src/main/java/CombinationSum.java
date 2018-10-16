@@ -17,6 +17,11 @@
  [1, 1, 6]
  ]
 
+Time complexity
+O((n+k)!) 
+where n is the size of candidates, and k is the max repeated times for each candidates
+and space complexity 
+O(m) where m is the size of array for the solution.
 
  */
 
